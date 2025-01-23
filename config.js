@@ -4,18 +4,18 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://kosths:8ua7DuvQjFO4EluW@light.5cvo4.mongodb.net/",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "Energy Project", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/jfBKVh2trM",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
     {
-      name: "Koi Node V4",
+      name: "Energy Project",
       password: "prplmoe.me",
       host: "lavav4.prplmoe.me",
       port: 1118,
